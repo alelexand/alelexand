@@ -24,6 +24,17 @@
   
 <div>
 
+## Work experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHxnJxjUpgqTw/company-logo_200_200/0/1631540598077?e=2147483647&v=beta&t=YSAqc_NMwa3-yMH30ELjRdl5gG3U_rZwHPLEEC0G56Q"/>](https://www.spacex.com/)
+
+**Developer FullStack** \
+[**Alldax Contabilidade**](https://www.alldax.com/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Flask`, `MySQL`, `JavaScript`, `RPAs`, `RPs`, `Data Analysis`, `DashBoards`\
+Projetos em destaque: [Business profile](https://github.com/AlexandreLasse)
+<br/>
+
 ## Contact:
 
 <div align="left">
