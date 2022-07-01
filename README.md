@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 <div align="left">
 <a href="https://www.linkedin.com/in/alexandre-lasse" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" target="_blank" height="50"></a> 
+<a href="https://www.linkedin.com/in/alexandre-lasse" target="_blank"><img src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" target="_blank" height="50" style="border-radius:20px"></a> 
 </div>
   
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=alelexand&theme=gotham&hide_border=true&area=true)
