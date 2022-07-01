@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 <div align="left">
 <a href="https://www.linkedin.com/in/alexandre-lasse" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" target="_blank" height="50"></a> 
 </div>
+  
+![Contribution](https://activity-graph.herokuapp.com/graph?username=alelexand&theme=gotham&hide_border=true&area=true)
