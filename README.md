@@ -15,8 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <div align="center">
   <a href="https://github.com/alelexand">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alelexand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alelexand&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## Linguagens mais usadas:
+
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" target="_blank" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" target="_blank" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" target="_blank" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" target="_blank" height="50">
+  
+<div>
+
+## Contato:
+
+<div align="left">
+<a href="https://www.linkedin.com/in/alexandre-lasse" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" target="_blank" height="50"></a> 
 </div>
