@@ -18,9 +18,17 @@
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" target="_blank" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" target="_blank" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" target="_blank" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" target="_blank" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" target="_blank" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" target="_blank" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" target="_blank" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" target="_blank" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" target="_blank" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" target="_blank" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" target="_blank" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" target="_blank" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" target="_blank" height="50">
+  
   
 <div>
 
