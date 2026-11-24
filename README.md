@@ -1,17 +1,18 @@
-# Olá, eu sou o Alexandre Lasse 👋
+# Hi, I'm Alexandre Lasse 👋
 
-Desenvolvedor **full stack** e freelancer. Crio **sites, sistemas sob medida e automações** para pequenas e médias empresas, para tirar o trabalho repetitivo das mãos da equipe e colocar o negócio na internet.
+**Full stack developer** and freelancer based in Portugal, working with clients across Europe. I build **websites, custom software and automation** for small and medium-sized businesses, so their teams can stop doing repetitive work and their business can be found online.
 
-🌐 **Site:** [alelexand.github.io](https://alelexand.github.io)
+🌐 **Website:** [alelexand.github.io](https://alelexand.github.io) · 🇵🇹 [Versão em português](https://alelexand.github.io/pt/)
+🗣️ English · Português
 
-## O que eu faço
+## What I do
 
-- 🖥️ **Sites e landing pages** rápidos, responsivos e fáceis de manter
-- ⚙️ **Sistemas sob medida**: cadastros, painéis administrativos e APIs
-- 🤖 **Automações (RPA)**: robôs que preenchem planilhas, conferem folha de pagamento, baixam relatórios e alimentam bancos de dados
-- 📊 **Dashboards e análise de dados** para acompanhar indicadores do negócio
+- 🖥️ **Websites and landing pages** that are fast, responsive and easy to maintain
+- ⚙️ **Custom software**: records, admin dashboards and APIs
+- 🤖 **Automation (RPA)**: bots that fill in spreadsheets, check payroll, download reports and feed databases
+- 📊 **Dashboards and data analysis** to keep track of business metrics
 
-## Tecnologias
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -25,23 +26,23 @@ Desenvolvedor **full stack** e freelancer. Crio **sites, sistemas sob medida e a
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Projetos em destaque
+## Featured projects
 
-| Projeto | O que faz | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| [DesafioImplanta](https://github.com/alelexand/DesafioImplanta) | API REST de cadastro de profissionais com validação de CPF e documentação Swagger | C#, .NET 6, EF Core, SQL Server |
-| [WebForms](https://github.com/alelexand/WebForms) | Base reutilizável para CRUDs em ASP.NET WebForms no padrão MVP | C#, .NET Framework, Entity Framework |
-| [ReactJS_Estudos](https://github.com/alelexand/ReactJS_Estudos) | Estudos de componentização em React | JavaScript, React |
+| [DesafioImplanta](https://github.com/alelexand/DesafioImplanta) | REST API for registering professionals, with data validation and Swagger docs | C#, .NET 6, EF Core, SQL Server |
+| [WebForms](https://github.com/alelexand/WebForms) | Reusable base for CRUD screens in ASP.NET WebForms using the MVP pattern | C#, .NET Framework, Entity Framework |
+| [ReactJS_Estudos](https://github.com/alelexand/ReactJS_Estudos) | Component-based UI studies with React | JavaScript, React |
 
-## Experiência
+## Experience
 
-**Desenvolvedor Full Stack** · Alldax Contabilidade
-Automações (RPA), sistemas web e dashboards com `Python`, `Flask`, `MySQL` e `JavaScript`.
+**Full Stack Developer** · Alldax Contabilidade
+Automation (RPA), web systems and dashboards with `Python`, `Flask`, `MySQL` and `JavaScript`.
 
-## Contato
+## Contact
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351925253197?text=Ol%C3%A1%20Alexandre!%20Vi%20o%20seu%20GitHub%20e%20gostaria%20de%20um%20or%C3%A7amento.)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351925253197?text=Hi%20Alexandre!%20I%20found%20you%20on%20GitHub%20and%20would%20like%20a%20quote.)
 [![E-mail](https://img.shields.io/badge/E--mail-Lasse--developer%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Lasse-developer@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-lasse)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alelexand)
-[![Site](https://img.shields.io/badge/Site-alelexand.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://alelexand.github.io)
+[![Website](https://img.shields.io/badge/Website-alelexand.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://alelexand.github.io)
