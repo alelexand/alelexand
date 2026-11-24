@@ -40,6 +40,8 @@ Automações (RPA), sistemas web e dashboards com `Python`, `Flask`, `MySQL` e `
 
 ## Contato
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351925253197?text=Ol%C3%A1%20Alexandre!%20Vi%20o%20seu%20GitHub%20e%20gostaria%20de%20um%20or%C3%A7amento.)
+[![E-mail](https://img.shields.io/badge/E--mail-Lasse--developer%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Lasse-developer@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-lasse)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alelexand)
 [![Site](https://img.shields.io/badge/Site-alelexand.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://alelexand.github.io)
