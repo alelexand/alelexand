@@ -1,54 +1,45 @@
-### Hey bro! 👋
+# Olá, eu sou o Alexandre Lasse 👋
 
-- 🔭 I'm currently working as a programmer
-- 🌱 I'm learning the C# language
-- 👯 I'm looking to collaborate on API projects in C#
-- 💬 Ask me about anything
-- ⚡ Fun fact: When I'm not programming, I'm playing!
+Desenvolvedor **full stack** e freelancer. Crio **sites, sistemas sob medida e automações** para pequenas e médias empresas, para tirar o trabalho repetitivo das mãos da equipe e colocar o negócio na internet.
 
+🌐 **Site:** [alelexand.github.io](https://alelexand.github.io)
 
+## O que eu faço
 
-<div align="center">
-  <a href="https://github.com/alelexand">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alelexand&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alelexand&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+- 🖥️ **Sites e landing pages** rápidos, responsivos e fáceis de manter
+- ⚙️ **Sistemas sob medida**: cadastros, painéis administrativos e APIs
+- 🤖 **Automações (RPA)**: robôs que preenchem planilhas, conferem folha de pagamento, baixam relatórios e alimentam bancos de dados
+- 📊 **Dashboards e análise de dados** para acompanhar indicadores do negócio
 
-## Programming Languages:
+## Tecnologias
 
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" target="_blank" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" target="_blank" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" target="_blank" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" target="_blank" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" target="_blank" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" target="_blank" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" target="_blank" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" target="_blank" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" target="_blank" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" target="_blank" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" target="_blank" height="50">
-  
-  
-<div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Work experience
-In the overview below you will find my most recent work experience:
+## Projetos em destaque
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHxnJxjUpgqTw/company-logo_200_200/0/1631540598077?e=2147483647&v=beta&t=YSAqc_NMwa3-yMH30ELjRdl5gG3U_rZwHPLEEC0G56Q"/>](https://www.spacex.com/)
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [DesafioImplanta](https://github.com/alelexand/DesafioImplanta) | API REST de cadastro de profissionais com validação de CPF e documentação Swagger | C#, .NET 6, EF Core, SQL Server |
+| [WebForms](https://github.com/alelexand/WebForms) | Base reutilizável para CRUDs em ASP.NET WebForms no padrão MVP | C#, .NET Framework, Entity Framework |
+| [ReactJS_Estudos](https://github.com/alelexand/ReactJS_Estudos) | Estudos de componentização em React | JavaScript, React |
 
-**Developer FullStack** \
-[**Alldax Contabilidade**](https://www.alldax.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Flask`, `MySQL`, `JavaScript`, `RPAs`, `RPs`, `Data Analysis`, `DashBoards`\
-Projetos em destaque: [Business profile](https://github.com/AlexandreLasse)
-<br/>
+## Experiência
 
-## Contact:
+**Desenvolvedor Full Stack** · Alldax Contabilidade
+Automações (RPA), sistemas web e dashboards com `Python`, `Flask`, `MySQL` e `JavaScript`.
 
-<div align="left">
-<a href="https://www.linkedin.com/in/alexandre-lasse" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" target="_blank" height="50"></a> 
-<a href="https://instagram.com/alelexand?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" target="_blank" height="50"></a> 
-<a href="https://discord.gg/n6ThFpxy"><img src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" target="_blank" height="50" style="border-radius:20px"></a> 
-</div>
-  
-![Contribution](https://activity-graph.herokuapp.com/graph?username=alelexand&theme=gotham&hide_border=true&area=true)
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-lasse)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alelexand)
+[![Site](https://img.shields.io/badge/Site-alelexand.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://alelexand.github.io)
