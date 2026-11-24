@@ -30,6 +30,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [back-office-dashboard](https://github.com/alelexand/back-office-dashboard) · [**live demo**](https://alelexand.github.io/back-office-dashboard/) | Combines the four automations below on one page, rebuilt by a GitHub Actions pipeline | Python, GitHub Actions, JavaScript |
 | [portal-robot](https://github.com/alelexand/portal-robot) | Web robot that signs in, downloads reports and fills forms from a spreadsheet, with retries and re-login | Python, Playwright, Flask |
 | [einvoice-reader](https://github.com/alelexand/einvoice-reader) | Reads UBL/Peppol and CII/Factur-X e-invoices, checks EN 16931 rules and exports to Excel and SQLite | Python, defusedxml, SQLite |
 | [hour-bank-checker](https://github.com/alelexand/hour-bank-checker) | Turns time-clock exports into hour bank balances and flags issues before payroll, with Excel and HTML reports | Python, pandas, openpyxl |
