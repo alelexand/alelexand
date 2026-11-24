@@ -30,6 +30,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [hour-bank-checker](https://github.com/alelexand/hour-bank-checker) | Turns time-clock exports into hour bank balances and flags issues before payroll, with Excel and HTML reports | Python, pandas, openpyxl |
 | [DesafioImplanta](https://github.com/alelexand/DesafioImplanta) | REST API for registering professionals, with data validation and Swagger docs | C#, .NET 6, EF Core, SQL Server |
 | [WebForms](https://github.com/alelexand/WebForms) | Reusable base for CRUD screens in ASP.NET WebForms using the MVP pattern | C#, .NET Framework, Entity Framework |
 | [ReactJS_Estudos](https://github.com/alelexand/ReactJS_Estudos) | Component-based UI studies with React | JavaScript, React |
